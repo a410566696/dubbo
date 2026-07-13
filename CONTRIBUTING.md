@@ -1,3 +1,29 @@
+```markdown
+# Contributing Guide
+
+Thanks for your interest in this project.
+
+This repository welcomes discussions and improvements related to:
+
+- Java RPC frameworks
+- Distributed systems
+- Microservice architecture
+- Code quality improvements
+- Testing improvements
+
+
+## Development Process
+
+1. Fork this repository
+2. Create a feature branch
+3. Make your changes
+4. Add tests when possible
+5. Submit a pull request
+
+
+## AI-assisted Development
+
+AI coding assistants may be used to improve productivity, but all generated code should be reviewed carefully before submission.
 
 ## Contributing to Dubbo
 Dubbo is released under the non-restrictive Apache 2.0 licenses and follows a very standard Github development process, using Github tracker for issues and merging pull requests into master. Contributions of all form to this repository is acceptable, as long as it follows the prescribed community guidelines enumerated below.

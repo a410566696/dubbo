@@ -1,4 +1,80 @@
-# Apache Dubbo Project
+# Apache Dubbo Development Fork
+
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
+
+This repository is a personal development fork based on Apache Dubbo.
+
+The purpose of this project is to explore, learn, and improve a high-performance Java RPC framework through:
+
+- Distributed system research
+- RPC framework exploration
+- Microservice architecture experiments
+- Code quality improvements
+- AI-assisted software engineering practices
+
+
+## About Apache Dubbo
+
+Apache Dubbo is a high-performance Java RPC framework designed for building
+large-scale distributed applications.
+
+It provides:
+
+- Service discovery
+- RPC communication
+- Load balancing
+- Traffic management
+- Service governance
+- Cloud-native integration
+
+
+## Goals of This Fork
+
+This fork focuses on:
+
+### 1. Code Understanding
+
+Explore the architecture and implementation details of Dubbo:
+
+- RPC invocation chain
+- Extension mechanism
+- Service registration
+- Cluster fault tolerance
+- Protocol implementation
+
+
+### 2. Development Improvement
+
+Use modern development tools including AI-assisted coding workflows to improve:
+
+- Code readability
+- Test coverage
+- Documentation
+- Development efficiency
+
+
+### 3. Open Source Contribution
+
+The improvements and research from this repository may be contributed back
+to the Apache Dubbo community when appropriate.
+
+
+## Technology Stack
+
+- Java
+- Maven
+- RPC
+- Microservices
+- Spring Framework
+- Distributed Systems
+
+
+## Development
+
+Clone repository:
+
+```bash
+git clone https://github.com/a410566696/dubbo.git
 
 [![Build Status](https://github.com/apache/dubbo/workflows/Build%20and%20Test%20For%20Dubbo%203/badge.svg?branch=3.0)](https://github.com/apache/dubbo/actions/workflows/build-and-test-3.yml?query=branch%3A3.0)
 [![Codecov](https://codecov.io/gh/apache/dubbo/branch/3.0/graph/badge.svg)](https://codecov.io/gh/apache/dubbo)
